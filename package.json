@@ -1,0 +1,14 @@
+{
+  "name": "test2-bot",
+  "version": "1.0.0",
+  "description": "test 2",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "ghostly",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
